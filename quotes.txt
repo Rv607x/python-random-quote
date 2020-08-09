@@ -12,3 +12,4 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+I would not waste my life in friction when it could be turned into momentum.
